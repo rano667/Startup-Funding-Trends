@@ -17,8 +17,7 @@ This project presents a comprehensive analysis of startup funding trends across 
 
 - **Colab Notebook (Code Implementation):** [Access the Notebook](https://colab.research.google.com/drive/1JqSeJy0Ektg1VZXjzdCl5YTYQz-KrcoM?usp=sharing)  
 - **Loom Video Presentation:** [Watch the Video](https://www.loom.com/share/2ff663a8c608432cab561911b5aa251f)  
-- **Presentation Slides:** [View the Presentation](https://www.canva.com/design/DAGXXVgWOtE/1gpFHSw5SfgUpzJzHGwS7w/edit?utm_content=DAGXXVgWOtE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-- **PDF of Presentation Slides:** [Download the PDF](./Startup Funding Trends.pdf)  
+- **Presentation Slides:** [View the Presentation](https://www.canva.com/design/DAGXXVgWOtE/1gpFHSw5SfgUpzJzHGwS7w/edit?utm_content=DAGXXVgWOtE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
